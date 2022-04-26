@@ -298,7 +298,7 @@ a.inline-roll {
     border: 1px solid var(--color-apsj-primary) !important;
     border-radius: 0.35em !important;
     background: linear-gradient(
-        var(--color-apsj-background-light-0),
+        var(--color-apsj-background-dark-1),
         var(--color-apsj-background-dark-4)
     ) !important;
 }
@@ -319,13 +319,17 @@ a.inline-roll i {
 
 .monks-journal-sheet.sheet .sheet-header .sheet-image {
     background: linear-gradient(
-        var(--color-apsj-background-light-4),
+        var(--color-apsj-background-dark-1),
         var(--color-apsj-background-dark-4)
     ) !important;
 }
 
 .monks-journal-sheet.sheet .items-list .items-header {
     background: var(--color-apsj-background-primary) !important;
+    color: var(--color-apsj-light-0) !important;
+}
+
+.monks-journal-sheet.sheet .items-list .items-name {
     color: var(--color-apsj-light-0) !important;
 }
 
@@ -450,7 +454,7 @@ a.inline-roll i {
     font-family: var(--font-apsj-scalycaps) !important;
     font-weight: 700 !important;
     font-size: 14pt !important;
-    text-shadow: 1px 1px 2px var(--color-apsj-dark-0);
+    -shadow: 1px 1px 2px var(--color-apsj-dark-0);
 }
 
 .dnd-text {
