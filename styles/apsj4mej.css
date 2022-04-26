@@ -298,8 +298,8 @@ a.inline-roll {
     border: 1px solid var(--color-apsj-primary) !important;
     border-radius: 0.35em !important;
     background: linear-gradient(
-        var(--color-apsj-background-dark-1),
-        var(--color-apsj-background-dark-4)
+        var(--color-apsj-background-dark-3),
+        var(--color-apsj-background-dark-0)
     ) !important;
 }
 
