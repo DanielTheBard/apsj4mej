@@ -333,6 +333,10 @@ a.inline-roll i {
     color: var(--color-apsj-light-0) !important;
 }
 
+.monks-journal-sheet.sheet .items-list .item .item-name {
+    color: var(--color-apsj-light-0) !important;
+}
+
 .dnd5e .monks-enhanced-journal .mainbar > div {
     border-bottom: 1px solid var(--color-apsj-primary) !important;
 }
